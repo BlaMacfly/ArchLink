@@ -1,0 +1,22 @@
+# ArchLink
+
+# Distribution files
+ArchLink.exe
+ArchLink_v1.0.zip
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# IDE
+.vscode/
+.idea/
+
+# Config (user-specific)
+server_switcher_config.json
