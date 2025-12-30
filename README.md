@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="archlink_logo.png" alt="ArchLink Logo" width="300">
+</p>
+
 # ArchLink
 
 ![ArchLink Screenshot](screenshot.png)
